@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Graphical user interface to manage resources from the [Symfony API](https://github.com/kserbouty/backend-symfony).
+Graphical interface connecting to the [Symfony API](https://github.com/kserbouty/backend-symfony) to manage its resources.
 
 ### Features
 
