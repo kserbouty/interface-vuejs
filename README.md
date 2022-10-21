@@ -1,21 +1,8 @@
-# Frontend Vue.js 2
-
-## Table of Contents
-
-- [Frontend Vue.js 2](#frontend-vuejs-2)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [Features](#features)
-  - [Installation](#installation)
-    - [Requirements](#requirements)
-    - [Docker Installation](#docker-installation)
-    - [Local Installation](#local-installation)
-  - [Authors](#authors)
-  - [License](#license)
+# CRUD interface with Vue.js
 
 ## Introduction
 
-Graphical interface connecting to the [Symfony API](https://github.com/kserbouty/backend-symfony) to manage its resources.
+Graphical user interface connecting to my [API](https://github.com/kserbouty/crud-symfony) to manage its resources.
 
 ### Features
 
@@ -26,7 +13,7 @@ Graphical interface connecting to the [Symfony API](https://github.com/kserbouty
 
 ### Requirements
 
-- [Symfony API](https://github.com/kserbouty/backend-symfony) running on port 8000
+- [Symfony API](https://github.com/kserbouty/crud-symfony) running on port 8000
 - Node >=16 with npm
 - Docker (optional)
 

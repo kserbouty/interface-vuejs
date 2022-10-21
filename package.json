@@ -1,14 +1,14 @@
 {
-  "name": "frontend-vuejs",
-  "description": "Graphical user interface to manage resources from the Symfony API.",
-  "homepage": "https://github.com/kserbouty/frontend-vuejs",
+  "name": "crud-vuejs",
+  "description": "Graphical user interface to manage resources from my API.",
+  "homepage": "https://github.com/kserbouty/crud-vuejs",
   "bugs": {
-    "url": "https://github.com/kserbouty/frontend-vuejs/issues",
+    "url": "https://github.com/kserbouty/crud-vuejs/issues",
     "email": "kserbouty.dev@protonmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kserbouty/frontend-vuejs.git"
+    "url": "https://github.com/kserbouty/crud-vuejs.git"
   },
   "author": "Karim Serbouty",
   "license": "MIT",
