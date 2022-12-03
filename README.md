@@ -1,53 +1,55 @@
 # CRUD interface with Vue.js
 
-## Introduction
+Interface for resource management in JSON format.
 
-Graphical user interface connecting to my [API](https://github.com/kserbouty/crud-symfony) to manage its resources.
+---
 
-### Features
+## Requirements
 
-- Manage resources from API endpoints.
-- Asynchronous requests with Axios.
+- Node 16+
+- [Symfony API](https://github.com/kserbouty/api-symfony) running on port 8000
 
 ## Installation
 
-### Requirements
-
-- [Symfony API](https://github.com/kserbouty/crud-symfony) running on port 8000
-- Node >=16 with npm
-- Docker (optional)
-
-### Docker Installation
-
-Build the image
+Clone the repository
 
 ```bash
-docker build -t vue-demo .
+git clone https://github.com/kserbouty/interface-vuejs.git
 ```
 
-Run your container on <http://localhost:8080>
+Switch to the repository folder
 
 ```bash
-docker run -it -p 8080:8080 --rm --name vue-demo vue-demo
+cd interface-vuejs
 ```
 
-### Local Installation
-
-Install the dependencies
+Install all the dependencies using npm
 
 ```bash
 npm install
 ```
 
-Run your server on <http://localhost:8080>
+Run the local server
 
 ```bash
 npm run serve
 ```
 
-## Authors
+The interface can be accessed at <http://localhost:8080>.
 
-Karim Serbouty
+## Docker
+
+To install with Docker, run following commands:
+
+```bash
+git clone https://github.com/kserbouty/interface-vuejs.git
+cd interface-vuejs
+docker compose up -d --build
+```
+
+The interface can be accessed at <http://localhost:8080>.
+
+---
 
 ## License
 

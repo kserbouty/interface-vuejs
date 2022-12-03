@@ -1,14 +1,14 @@
 {
-  "name": "crud-vuejs",
-  "description": "Graphical user interface to manage resources from my API.",
-  "homepage": "https://github.com/kserbouty/crud-vuejs",
+  "name": "interface-vuejs",
+  "description": "Interface for resource management in JSON format.",
+  "homepage": "https://github.com/kserbouty/interface-vuejs",
   "bugs": {
-    "url": "https://github.com/kserbouty/crud-vuejs/issues",
+    "url": "https://github.com/kserbouty/interface-vuejs/issues",
     "email": "kserbouty.dev@protonmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kserbouty/crud-vuejs.git"
+    "url": "https://github.com/kserbouty/interface-vuejs.git"
   },
   "author": "Karim Serbouty",
   "license": "MIT",
